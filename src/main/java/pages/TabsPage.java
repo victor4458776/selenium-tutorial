@@ -8,3 +8,5 @@ public class TabsPage {
     @FindBy(css = "[href*='thirdpage']") public WebElement linkToThirdPage;
     @FindBy(css = "h1") public WebElement h1;
 }
+
+#JT-6
